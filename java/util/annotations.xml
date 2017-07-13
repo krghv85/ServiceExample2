@@ -1,0 +1,5 @@
+<root>
+  <item name='java.util.TimeZone java.util.TimeZone getTimeZone(java.lang.String)'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
